@@ -1,20 +1,20 @@
-## Hi there, I'm Brendan 👋
+## Hello world! I'm Brendan 👋
 
 ### About Me
-- Data Scientist at Procter & Gamble
+- :office: Data Scientist at Procter & Gamble
 - 🎓 Recent Physics PhD graduate from the University of Florida
 
 
 ### 🛠 Data Science Tech Stack
 
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- :snake: Python
   - Data Wrangling: NumPy, SciPy, Pandas, PySpark
   - Machine Learning: Scikit-learn, XGBoost
   - Deep Learning: PyTorch, TensorFlow
   - Data Visualization: Matplotlib, Seaborn 
-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- C++
+- Bash
+- MySQL
 
 ### Connect With Me
 
