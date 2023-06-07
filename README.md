@@ -1,8 +1,6 @@
-## Hello world! I'm Brendan 👋
-
 ### About Me
 - :office: Data Scientist at Procter & Gamble
-- 🎓 Recent Physics PhD graduate from the University of Florida
+- 🎓 2021 Physics PhD graduate from the University of Florida
 
 
 ### 🛠 Data Science Tech Stack
